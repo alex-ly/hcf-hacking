@@ -1,0 +1,12 @@
+#ipython_notebook img {
+    display: none;
+}
+
+#ipython_notebook {
+}
+#ipython_notebook a:before {
+    content: "(Designer)";
+    font-family: Helvetica;
+    font-weight: bold;
+    color: #BB442A;
+}
